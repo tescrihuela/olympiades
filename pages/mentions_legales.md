@@ -1,0 +1,1 @@
+Nous déclinons toute responsabilité. Toute.
