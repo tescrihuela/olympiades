@@ -1,21 +1,21 @@
 Classement,Participant,Genre,Équipe,Cross,Score Cross,Natation,Score Natation,Sprint,Score Sprint,Poids,Score Poids,Ballons,Score Ballons,Pétanque,Score Pétanque,Score Total
 1,Lucas Montbuleau-Gentelet,M,GSAM & Friends,18:09,892.0,01:45,679.0,"11,9",919.0,"8,85",885.0,11,430.0,10,400.0,4205.0
 2,Victor Lesaulnier,M,Très Moyennement Entraînés,22:58,652.0,01:51,633.0,"13,9",740.0,"8,15",815.0,17,610.0,15,550.0,4000.0
-3,Jonathan Tudot,M,SG,26:01,499.0,01:41,708.0,"13,4",785.0,"8,1",810.0,14,520.0,17,610.0,3932.0
+3,Jonathan Tudot,M,SG,26:01,499.0,01:44,686.0,"13,4",785.0,"8,1",810.0,14,520.0,17,610.0,3910.0
 4,Florian Grillot,M,Très Moyennement Entraînés,20:30,775.0,01:43,693.0,"13,4",785.0,"6,9",700.0,12,460.0,12,460.0,3873.0
 5,Thibaut Noël,M,GSAM & Friends,23:25,629.0,01:45,679.0,"13,6",767.0,7,709.0,9,360.0,6,240.0,3384.0
 6,Vincent Demeules,M,GSAM & Friends,20:41,766.0,01:43,693.0,"15,2",480.0,7,709.0,10,400.0,8,320.0,3368.0
 7,Adrien Mainguet,M,Très Moyennement Entraînés,30:13,295.0,01:29,808.0,"13,7",758.0,"6,7",643.0,12,460.0,8,320.0,3284.0
 8,Lionel Legrand,M,Vuubistan,23:53,606.0,02:38,336.0,"12,7",848.0,"7,23",730.0,11,430.0,7,280.0,3230.0
-9,Jean-Jeaque Ntab,M,Vuubistan,25:39,518.0,,,"13,6",767.0,"7,37",743.0,12,460.0,10,400.0,2888.0
-10,Guillaume Voisin,M,Bât 7,23:40,617.0,02:03,536.0,15,500.0,"6,42",563.0,7,280.0,9,360.0,2856.0
-11,Chris Civallero,M,GSAM & Friends,25:24,530.0,01:44,686.0,"15,1",490.0,"5,58",448.0,9,360.0,7,280.0,2794.0
-12,Loanne Pichot,F,DGI et compagnie,22:57,652.0,01:37,742.0,"16,3",370.0,"5,71",459.0,13,490.0,1,40.0,2753.0
-13,Frédéric Souday,M,GSAM & Friends,24:17,586.0,01:51,633.0,"14,6",637.0,"5,17",414.0,5,200.0,6,240.0,2710.0
-14,Alexandre Bregeon,M,GSAM & Friends,,,,,13,821.0,"7,79",781.0,10,400.0,18,640.0,2642.0
-15,Noélie Carretero,F,Vuubistan,20:33,772.0,02:31,370.0,"15,5",450.0,"4,48",348.0,9,360.0,8,320.0,2620.0
-16,Alain Sirlin,M,Vuubistan,23:57,602.0,,,"12,6",857.0,"6,83",680.0,7,280.0,4,160.0,2579.0
-17,Sébastien Hanrard,M,DNUM,20:31,774.0,01:44,686.0,15,500.0,,,5,200.0,10,400.0,2560.0
+9,Sébastien Hanrard,M,DNUM,20:31,774.0,01:44,686.0,15,500.0,"5,58",448.0,5,200.0,10,400.0,3008.0
+10,Jean-Jeaque Ntab,M,Vuubistan,25:39,518.0,,,"13,6",767.0,"7,37",743.0,12,460.0,10,400.0,2888.0
+11,Guillaume Voisin,M,Bât 7,23:40,617.0,02:03,536.0,15,500.0,"6,42",563.0,7,280.0,9,360.0,2856.0
+12,Chris Civallero,M,GSAM & Friends,25:24,530.0,01:44,686.0,"15,1",490.0,"5,58",448.0,9,360.0,7,280.0,2794.0
+13,Loanne Pichot,F,DGI et compagnie,22:57,652.0,01:37,742.0,"16,3",370.0,"5,71",459.0,13,490.0,1,40.0,2753.0
+14,Frédéric Souday,M,GSAM & Friends,24:17,586.0,01:51,633.0,"14,6",637.0,"5,17",414.0,5,200.0,6,240.0,2710.0
+15,Alexandre Bregeon,M,GSAM & Friends,,,,,13,821.0,"7,79",781.0,10,400.0,18,640.0,2642.0
+16,Noélie Carretero,F,Vuubistan,20:33,772.0,02:31,370.0,"15,5",450.0,"4,48",348.0,9,360.0,8,320.0,2620.0
+17,Alain Sirlin,M,Vuubistan,23:57,602.0,,,"12,6",857.0,"6,83",680.0,7,280.0,4,160.0,2579.0
 18,Cyril Houisse,M,DNUM,26:42,465.0,02:30,375.0,"15,2",480.0,"5,4",433.0,8,320.0,12,460.0,2533.0
 19,Marine Boquet,F,GSAM & Friends,30:49,280.0,01:39,725.0,"16,5",350.0,"4,15",315.0,14,520.0,7,280.0,2470.0
 20,Nicolas Dubos,M,GSAM & Friends,27:47,411.0,,,"15,6",440.0,"6,35",543.0,19,670.0,10,400.0,2464.0
@@ -67,21 +67,20 @@ Classement,Participant,Genre,Équipe,Cross,Score Cross,Natation,Score Natation,S
 66,Léa Menuet,F,Très Moyennement Entraînés,,,,,,,"4,05",305.0,,,,,305.0
 67,Lola Hugonie,F,MEL,,,,,,,,,,,7,280.0,280.0
 68,Mathilde Minguet,F,Très Moyennement Entraînés,,,,,,,"3,5",250.0,,,,,250.0
-69,Teemij Dinaran,M,MEL,,,,,,,,,5,200.0,,,200.0
-70,Anthony Auger,M,MEL,,,,,,,,,,,5,200.0,200.0
-71,Sébastien Bouland,M,MEL,,,,,,,,,,,5,200.0,200.0
+69,Anthony Auger,M,MEL,,,,,,,,,,,5,200.0,200.0
+70,Sébastien Bouland,M,MEL,,,,,,,,,,,5,200.0,200.0
+71,Teemij Dinaran,M,MEL,,,,,,,,,5,200.0,,,200.0
 72,Awa Dia Ndeye,F,Vuubistan,,,,,,,,,3,120.0,,,120.0
 73,Pauline Dupont,F,MEL,,,,,,,,,2,80.0,,,80.0
-74,Aminata Mame Sane,F,DGI et compagnie,,,,,,,,,,,,,0.0
-75,Adèle Souchet,F,Bât 7,,,,,,,,,,,,,0.0
-76,Erwan Vatan,M,Vuubistan,,,,,,,,,,,,,0.0
-77,Delphine Benard,F,Vuubistan,,,,,,,,,,,,,0.0
-78,Duy Hung Ha,M,GSAM & Friends,,,,,,,,,,,,,0.0
-79,Elsa Moutet,F,Vuubistan,,,,,,,,,,,,,0.0
-80,Rodolphe Duval,M,DGI et compagnie,,,,,,,,,,,,,0.0
-81,Cyrille Fauchard,M,DGI et compagnie,,,,,,,,,,,,,0.0
-82,Cécile Delafenêtre,F,MEL,,,,,,,,,,,0,0.0,0.0
-83,Nouhaila Ahssini,F,Très Moyennement Entraînés,,,,,,,,,,,,,0.0
-84,Raphaël Antoine,M,DGI et compagnie,,,,,,,,,,,,,0.0
+74,Abdelfattah Tellati,M,Très Moyennement Entraînés,,,,,,,,,,,,,0.0
+75,Aminata Mame Sane,F,DGI et compagnie,,,,,,,,,,,,,0.0
+76,Adèle Souchet,F,Bât 7,,,,,,,,,,,,,0.0
+77,Cyrille Fauchard,M,DGI et compagnie,,,,,,,,,,,,,0.0
+78,Nouhaila Ahssini,F,Très Moyennement Entraînés,,,,,,,,,,,,,0.0
+79,Delphine Benard,F,Vuubistan,,,,,,,,,,,,,0.0
+80,Elsa Moutet,F,Vuubistan,,,,,,,,,,,,,0.0
+81,Erwan Vatan,M,Vuubistan,,,,,,,,,,,,,0.0
+82,Rodolphe Duval,M,DGI et compagnie,,,,,,,,,,,,,0.0
+83,Raphaël Antoine,M,DGI et compagnie,,,,,,,,,,,,,0.0
+84,Cécile Delafenêtre,F,MEL,,,,,,,,,,,0,0.0,0.0
 85,Romain Lesage,M,Vuubistan,,,,,,,,,,,,,0.0
-86,Abdelfattah Tellati,M,Très Moyennement Entraînés,,,,,,,,,,,,,0.0
