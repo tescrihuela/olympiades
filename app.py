@@ -17,7 +17,8 @@ df_classement_equipes = pd.read_csv(scores_equipes_file)
 
 # Initialisation de l'application Dash
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
-app = dash.Dash(__name__, url_base_pathname=f"{location}/", external_stylesheets=[dbc.themes.SANDSTONE, dbc_css, dbc.icons.BOOTSTRAP])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE, dbc_css, dbc.icons.BOOTSTRAP])
+server = app.server
 
 # Création de la mise en page
 app.layout = dbc.Container(className='dbc dbc-ag-grid', fluid = True, children=[
@@ -345,4 +346,4 @@ Le relais sera suivi d’un pot offert par l’ASCE, et de la remise des lots et
 
 # Lancement de l'application
 if __name__ == '__main__':
-    app.run_server(threaded=True, port = 8053)
+    app.run_server(threaded=True)
