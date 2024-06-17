@@ -17,7 +17,7 @@ df_classement_equipes = pd.read_csv(scores_equipes_file)
 
 # Initialisation de l'application Dash
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE, dbc_css, dbc.icons.BOOTSTRAP])
+app = dash.Dash(__name__, url_base_pathname=f"{location}/", external_stylesheets=[dbc.themes.SANDSTONE, dbc_css, dbc.icons.BOOTSTRAP])
 server = app.server
 
 # Création de la mise en page
